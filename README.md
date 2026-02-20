@@ -1,0 +1,1 @@
+ A website 'sketchpad'. The sketchpad is a grid of squares fill a fixed area. The user can specify other grid sizes (up to 100x100). The squares start white, when the user moves their mouse through a box the first time it will change colour (to a random colour). Going over a square again will darken it by 10%.
